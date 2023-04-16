@@ -9,9 +9,11 @@
 0.0.0.0 0.0.0.0
 
 #hoc247.net
-s.adroll.com
 adclick.g.doubleclick.net
 pagead2.googlesyndication.com
 securepubads.g.doubleclick.net
 media1.admicro.vn
 googleads.g.doubleclick.net
+
+#genk.vn
+s.adroll.com
