@@ -8,7 +8,7 @@
 ::1 localhost
 0.0.0.0 0.0.0.0
 
-0.0.0.0 z.moatads.com
-0.0.0.0 s.adroll.com
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+z.moatads.com
+s.adroll.com
+adclick.g.doubleclick.net
+pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
