@@ -14,6 +14,7 @@ pagead2.googlesyndication.com
 securepubads.g.doubleclick.net
 media1.admicro.vn
 googleads.g.doubleclick.net
+ads.zunia.vn
 
 #genk.vn
 s.adroll.com
