@@ -1,4 +1,4 @@
-#Attempt to block ads domain on vietnamese site and block Tiktok domain
+#Attempt to block ads domain on vietnamese site
 #Just filter ipv4 for now
 
 127.0.0.1 localhost
@@ -13,3 +13,5 @@ s.adroll.com
 adclick.g.doubleclick.net
 pagead2.googlesyndication.com
 securepubads.g.doubleclick.net
+media1.admicro.vn
+googleads.g.doubleclick.net
