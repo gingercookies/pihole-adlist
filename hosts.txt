@@ -6,7 +6,7 @@
 127.0.0.1 local
 255.255.255.255 broadcasthost
 ::1 localhost
-0.0.0.0 0.0.0.0
+api2.branch.io
 
 #hoc247.net
 adclick.g.doubleclick.net
