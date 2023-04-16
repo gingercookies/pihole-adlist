@@ -18,3 +18,4 @@ ads.zunia.vn
 
 #genk.vn
 s.adroll.com
+static.mediacdn.vn/common/images/loading-ads-adm.gif
