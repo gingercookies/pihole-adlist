@@ -11,4 +11,4 @@
 z.moatads.com
 s.adroll.com
 adclick.g.doubleclick.net
-pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+pagead2.googlesyndication.com
