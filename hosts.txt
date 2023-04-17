@@ -4,7 +4,11 @@
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
 ::1 localhost
+#Trackers
 api2.branch.io
+
+#Gamble sites
+game-sg.flygame.io
 
 #hoc247.net
 adclick.g.doubleclick.net
@@ -16,4 +20,3 @@ ads.zunia.vn
 
 #genk.vn
 s.adroll.com
-static.mediacdn.vn
