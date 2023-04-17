@@ -1,4 +1,4 @@
-#Attempt to block ads domain on vietnamese site
+#Personal use
 #Just filter ipv4 for now
 
 127.0.0.1 localhost
@@ -10,6 +10,15 @@ api2.branch.io
 #Gamble sites
 game-sg.flygame.io
 
+#tiktok.com
+www.tiktok.com
+p16-sign-va.tiktokcdn.com
+lf16-tiktok-common.ttwstatic.com
+lf16-tiktok-web.ttwstatic.com
+mcs-sg.tiktok.com
+p9-sg.tiktokcdn.com
+p16-sign-sg.tiktokcdn.com
+
 #hoc247.net
 adclick.g.doubleclick.net
 pagead2.googlesyndication.com
@@ -20,3 +29,5 @@ ads.zunia.vn
 
 #genk.vn
 s.adroll.com
+
+
