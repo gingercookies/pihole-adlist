@@ -2,8 +2,6 @@
 #Just filter ipv4 for now
 
 127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
 255.255.255.255 broadcasthost
 ::1 localhost
 api2.branch.io
@@ -18,4 +16,4 @@ ads.zunia.vn
 
 #genk.vn
 s.adroll.com
-static.mediacdn.vn/common/images/loading-ads-adm.gif
+static.mediacdn.vn
