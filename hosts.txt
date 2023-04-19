@@ -7,6 +7,7 @@
 
 #Google ads
 www.googleadservices.com
+tpc.googlesyndication.com
 
 #Gamble sites
 game-sg.flygame.io
