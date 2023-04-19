@@ -4,13 +4,15 @@
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
 ::1 localhost
-#Trackers
-api2.branch.io
+
+#Google ads
+www.googleadservices.com
 
 #Gamble sites
 game-sg.flygame.io
 
-#tiktok.com
+#Widespread social network
+#[tiktok] (Block all because of its addictive)
 www.tiktok.com
 p16-sign-va.tiktokcdn.com
 lf16-tiktok-common.ttwstatic.com
@@ -19,7 +21,30 @@ mcs-sg.tiktok.com
 p9-sg.tiktokcdn.com
 p16-sign-sg.tiktokcdn.com
 
-#hoc247.net
+#[reddit]
+api2.branch.io
+ads.reddit.com
+
+#[facebook]
+ads.facebook.com
+an.facebook.com
+pixel.facebook.com
+
+#[whatsapp.net]
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 privatestats.whatsapp.net
+
+#[twitter.com]
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 analytics.twitter.com
+#[ads-twitter.com]
+0.0.0.0 ads-twitter.com
+0.0.0.0 static.ads-twitter.com
+
+#Normal web
+#[hoc247.net]
 adclick.g.doubleclick.net
 pagead2.googlesyndication.com
 securepubads.g.doubleclick.net
@@ -27,7 +52,5 @@ media1.admicro.vn
 googleads.g.doubleclick.net
 ads.zunia.vn
 
-#genk.vn
+#[genk.vn]
 s.adroll.com
-
-
