@@ -4,6 +4,9 @@
 255.255.255.255 broadcasthost
 ::1 localhost
 
+#[genk.vn]
+adx.admicro.vn
+
 #Gamble sites
 game-sg.flygame.io
 
