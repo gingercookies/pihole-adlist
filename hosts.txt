@@ -1,18 +1,12 @@
 #Personal use
-#Just filter ipv4 for now
 
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
 ::1 localhost
 
-#Google ads
-www.googleadservices.com
-tpc.googlesyndication.com
-
 #Gamble sites
 game-sg.flygame.io
 
-#Widespread social network
 #[tiktok] (Block all because of its addictive)
 www.tiktok.com
 p16-sign-va.tiktokcdn.com
@@ -30,30 +24,3 @@ ads.reddit.com
 ads.facebook.com
 an.facebook.com
 pixel.facebook.com
-
-#[whatsapp.net]
-0.0.0.0 dit.whatsapp.net
-0.0.0.0 privatestats.whatsapp.net
-
-#[twitter.com]
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 ads-bidder-api.twitter.com
-0.0.0.0 ads.twitter.com
-0.0.0.0 analytics.twitter.com
-#[ads-twitter.com]
-0.0.0.0 ads-twitter.com
-0.0.0.0 static.ads-twitter.com
-
-#Normal web
-#[hoc247.net]
-adclick.g.doubleclick.net
-pagead2.googlesyndication.com
-securepubads.g.doubleclick.net
-media1.admicro.vn
-googleads.g.doubleclick.net
-ads.zunia.vn
-
-#[genk.vn]
-s.adroll.com
-gkl.stablesunflower.com
-adx.admicro.vn
