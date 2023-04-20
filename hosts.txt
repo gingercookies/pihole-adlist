@@ -6,6 +6,7 @@
 
 #[genk.vn]
 adx.admicro.vn
+adi.admicro.vn
 
 #Gamble sites
 game-sg.flygame.io
