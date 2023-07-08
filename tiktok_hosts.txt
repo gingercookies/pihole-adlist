@@ -1,27 +1,8 @@
-#Personal use
-
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
 ::1 localhost
 
-#[genk.vn]
-adx.admicro.vn
-adi.admicro.vn
-media1.admicro.vn
-
-#Gamble sites
-game-sg.flygame.io
-
-#[reddit]
-api2.branch.io
-ads.reddit.com
-
-#[facebook]
-ads.facebook.com
-an.facebook.com
-pixel.facebook.com
-
-#[tiktok] (Block all because of its addictive)
+#[tiktok]
 161.117.70.136
 161.117.70.145
 161.117.70.68
