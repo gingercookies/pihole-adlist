@@ -6,3 +6,12 @@
 pixel.facebook.com
 ads.facebook.com
 an.facebook.com
+
+#[Twitter]
+ads-api.twitter.com
+advertising.twitter.com
+
+#[Linkedln]
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
