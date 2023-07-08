@@ -1,0 +1,8 @@
+127.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1 localhost
+
+#[Facebook]
+pixel.facebook.com
+ads.facebook.com
+an.facebook.com
