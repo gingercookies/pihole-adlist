@@ -1,3 +1,0 @@
-#[This is used for RegEx blocking]
-
-^(.*\.)*(i9bet47|jun88|6686vn86|ee8806)\.([a-z]{2,3}\.)*[a-z]{2,6}$
