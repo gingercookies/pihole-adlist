@@ -15,3 +15,6 @@ advertising.twitter.com
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
 
+#[reddit]
+api2.branch.io
+ads.reddit.com
