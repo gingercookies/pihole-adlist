@@ -1,3 +1,2 @@
-# vietnam-ads-filter-pihole
-Custom Pi-hole ads list 
-I create for my own
+# pihole-adlist
+Small adlist I created for my own purpose
